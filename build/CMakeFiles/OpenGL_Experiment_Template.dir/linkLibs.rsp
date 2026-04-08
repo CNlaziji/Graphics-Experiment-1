@@ -1,0 +1,1 @@
+ "D:/trae code/pic/vcpkg/glfw/build/src/libglfw3.a" -lopengl32 -lglu32 -lws2_32 -lwinmm -lgdi32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

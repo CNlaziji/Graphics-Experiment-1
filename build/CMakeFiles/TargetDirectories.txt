@@ -1,0 +1,3 @@
+D:/trae code/pic/build/CMakeFiles/OpenGL_Experiment_Template.dir
+D:/trae code/pic/build/CMakeFiles/edit_cache.dir
+D:/trae code/pic/build/CMakeFiles/rebuild_cache.dir
