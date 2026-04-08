@@ -80,12 +80,11 @@ public:
         return modelMatrix;
     }
 
-    // TODO: 成员 A 负责 2D 绘制逻辑
+    // TODO: 成员 A 负责 2D 图形绘制
     // TODO: 成员 B 负责 2D 变换，包括缩放、反射、切变、旋转、平移
     // TODO: 成员 C 负责 2D 组合变换
-    // TODO: 成员 E 负责 3D 图形绘制
-    // TODO: 成员 F 负责 3D 变换，包括缩放、平移、绕 x/y/z 轴旋转
-    // TODO: 成员 G 负责 3D 组合变换
+    // TODO: 成员 D 负责 3D 变换，包括缩放、平移、绕 x/y/z 轴旋转
+    // TODO: 成员 E 负责 3D 组合变换
 
     // 预留变换逻辑区域
     void applyTransforms() {
